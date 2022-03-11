@@ -42,7 +42,7 @@ export const Decode = (props) => {
         </Button>
       </Box>
 
-      <Typography variant="h1" component="h2">
+      <Typography variant="h1" component="h2" style={{textAlign:"center"}}>
         {ans}
       </Typography>
     </div>
